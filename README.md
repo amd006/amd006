@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @amd006 and I am a MD/PhD with 15yrs experience in primary care & geriatrics and an investor in Stellar Lumens
-- 👀 I’m interested in projects decentralizing the health insurance industry (e.g. health insurance DAO)
-- 🌱 I’m currently learning python  
+- 👋 Hi, I’m @amd006 and I am a MD/PhD with 15yrs experience in primary care & geriatrics 
 - 📫 How to reach me: anup443@gmail.com
 
 <!---
